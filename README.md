@@ -3,13 +3,13 @@
 
 **Workflow to work with**
 
-Galaxy Workflow:
+1. Galaxy Workflow:
 - Rachael 
 - 
 
 
 
-Linux Workflow
+2. Linux Workflow
 - Praise 
 - Fredrick Kakembo
 - 
