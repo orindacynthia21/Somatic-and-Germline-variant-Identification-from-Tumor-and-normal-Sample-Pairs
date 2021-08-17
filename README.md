@@ -1,15 +1,15 @@
 # Somatic-and-Germline-variant-Identification-from-Tumor-and-normal-Sample-Pairs
 
 
-############....Workflow to work with
+**Workflow to work with**
 
-## Galaxy Workflow:
+Galaxy Workflow:
 - Rachael 
 - 
 
 
 
-##  Linux Workflow
+Linux Workflow
 - Praise 
 - Fredrick Kakembo
 - 
